@@ -1,5 +1,5 @@
 body{
-    background-color: #333333;
+    background-color: #ffffff;
 }
 li{
     color:#ffffff;
@@ -47,4 +47,21 @@ section{
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+}
+header{
+    height: 520px;
+    background-color: #333333;
+}
+section{
+    height: 500px;
+}
+#a1{
+    width: 50%;
+    height: 100%;
+    background-color: #ffffff;
+}
+#a2{
+    width: 50%;
+    height: 100%;
+    background-color: #ff9933;
 }
