@@ -50,10 +50,9 @@ section{
 }
 header{
     height: 520px;
-    background-color: #333333;
 }
 section{
-    height: 500px;
+    height: 100px;
 }
 #a1{
     width: 50%;
@@ -64,4 +63,7 @@ section{
     width: 50%;
     height: 100%;
     background-color: #ff9933;
+}
+h1{
+    color: #ffffff;
 }
